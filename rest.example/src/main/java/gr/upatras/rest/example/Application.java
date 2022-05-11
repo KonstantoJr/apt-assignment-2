@@ -1,6 +1,7 @@
 package gr.upatras.rest.example;
 
-
+// This is my super duper change to commit in the new 
+// branch called develop
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
